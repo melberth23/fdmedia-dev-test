@@ -1,0 +1,13 @@
+#fdmedia-box {
+
+}
+#fdmedia-box .fdmedia-basic-info {
+
+}
+#fdmedia-box .fdmedia-images img {
+    max-width: 200px;
+    margin: 20px;
+}
+#fdmedia-box .fdmedia-images img:hover {
+	border: 3px solid #270606;
+}
